@@ -1,6 +1,8 @@
 # Recovering Text from Endangered Languages Corrupted PDF documents
 
-Interactive recovery of text associated to a specific font in a corrupted PDF document
+Interactive recovery of the text associated to a specific font in a corrupted PDF document when language models can not be used
+
+scientific article: https://aclanthology.org/2022.computel-1.10/
 
 ## Introduction
 
